@@ -1,15 +1,14 @@
 ---
 title: Game Mechanics
-description: Detailed explanation of SETTLERS core mechanics, hex states and capture system.
+description: Detailed explanation of Settlers core mechanics, hex states and capture system.
 ---
-
 
 ## Overview
 
-SETTLERS uses a hexagonal territory system with various states and capture mechanics. This document explains the core elements of gameplay.
+Settlers uses a hexagonal territory system with various states and capture mechanics. This document explains the core elements of gameplay.
 
 !!! caution "Important"
-To play SETTLERS you must allow access to geolocation and physically be in the hex you want to capture. Spoofing geolocation is prohibited and may result in account restrictions.
+To play Settlers you must allow access to geolocation and physically be inside the hex you want to capture. Spoofing geolocation is prohibited and may result in account restrictions.
 !!!
 
 ## Hex States
@@ -17,30 +16,30 @@ To play SETTLERS you must allow access to geolocation and physically be in the h
 Each hex in the game can be in one of the following states:
 
 ### 1. Unclaimed
-- Empty hex without owner
-- Available for immediate capture
+- Empty hex without an owner.
+- Available for immediate capture if you are inside it.
 
 ### 2. Your Hex
-- Personally captured by you
-- Part of your territory
+- Personally captured by you.
+- Part of your territory.
 
 ### 3. Clan Member Hex
-- Captured by a member of your clan
-- Cannot be captured by you (only the current owner can keep it)
-- Contributes to clan territory
+- Captured by a member of your clan.
+- Cannot be captured by you.
+- Contributes to clan territory control.
 
 ### 4. Other Clan Hex
-- Captured by a member of another clan
-- Can be captured after cooldown period
+- Captured by a member of another clan.
+- Can be captured after the cooldown period.
 
 ### 5. Other Player Hex
-- Captured by a player not from your clan
-- Can be captured after cooldown period
+- Captured by a player not from your clan.
+- Can be captured after the cooldown period.
 
-### 6. Cooldown :material-clock-outline: TBI
-- Recently captured hex
-- Protected for 1 hour
-- Capture impossible during this period
+### 6. Cooldown
+- Recently captured hex.
+- Protected for 1 hour.
+- Capture is impossible during this period.
 
 ## Capture Mechanics
 
@@ -49,38 +48,41 @@ Each hex can have only one owner at a time. When you capture a hex, the previous
 !!!
 
 ### Capture Process
-1. Move to the desired hex
-2. Press the "Settle" button
-3. Wait for confirmation
+1. Move to the desired hex.
+2. Press the **Settle** button.
+3. Wait for confirmation.
 
 !!! tip
-To maximize your territory, try to capture hexes that connect with your existing territory. Connected hexes are more valuable for clan control calculations.
+To maximize your territory, try to capture hexes that connect with your existing territory. Connected hexes strengthen clan territory control.
 !!!
 
 ### Results
-- You become the new owner
-- Hex joins your clan's territory (if applicable)
-- 1-hour capture immunity begins
-- Previous owner loses the hex
+- You become the new owner.
+- The hex joins your clan's territory if you are in a clan.
+- A 1-hour capture immunity begins.
+- The previous owner loses the hex.
 
 Note: You cannot capture a hex if it is already owned by another member of your clan.
 
 ## Clan Dynamics
 
-- Clan members cannot capture hexes from each other. If a hex is owned by a member of your clan, you cannot capture it until it is unclaimed or owned by someone outside your clan.
-- Hex remains under clan control when captured by clan member
-- Only individual ownership changes
-- Clan territory remains intact
+- Clan members cannot capture hexes from each other. If a hex is owned by a member of your clan, you cannot capture it until it becomes unclaimed or is owned by someone outside your clan.
+- When a clan member captures a hex from another clan, individual ownership changes, but the hex remains part of your clan's territory.
+- Clan territory is calculated continuously as members capture new hexes.
 
 ## Cooldown System
 
 The cooldown system protects recently captured territories:
 
 !!! caution "Important"
-Each hex enters a 1-hour protection period immediately after capture. During this time NO ONE can capture the hex - not even clan members.
+Each hex enters a 1-hour protection period immediately after capture. During this time NO ONE can capture the hex — not even clan members.
 !!!
 
-- Duration: 1 hour after capture
-- Protection: Capture impossible during cooldown
-- Visibility: Timer visible to all players
-- Purpose: Prevents immediate re-capture 
+- **Duration:** 1 hour after capture.
+- **Protection:** Capture is impossible during cooldown.
+- **Visibility:** The cooldown timer is visible to all players.
+- **Purpose:** Prevents immediate re-capture.
+
+## Points
+
+Hexes generate points based on their location significance. The more interesting or populated the location, the higher the reward. Points are accrued over time and added to your balance while you hold the hex.

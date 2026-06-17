@@ -1,28 +1,28 @@
 # Roadmap
 
-SETTLERS game development roadmap for 2025.
+Settlers game development roadmap.
 
 ## Stage 1: Launch :material-rocket-launch:
 
-- Game launch and hypothesis testing
-- Getting feedback from players
+- Game launch and hypothesis testing.
+- Getting feedback from players.
 
 ## Stage 2: Interface and Mechanics Development :material-gamepad-variant:
 
 :material-check-circle: Current Stage
 
-- Infrastructure scaling
-- UI improvements
-- Maps and geolocation improvements
-- Adding new modes and tasks
+- Infrastructure scaling.
+- UI improvements.
+- Maps and geolocation improvements.
+- Adding new modes and tasks.
 
-## Stage 3: NFT and Digital Assets :material-diamond:
+## Stage 3: Community Development :material-diamond:
 
-- Branded hexes
-- Play-to-Earn mechanics
-- NFT
-- AirDrops
+- Branded hexes.
+- Bonus mechanics.
+- Partnerships.
 
-## Stage 4: Ecosystem and Tokenomics :material-coin:
+## Stage 4: Expansion :material-map:
 
-- Community and partnership development
+- New social and competitive features.
+- Continued community and partnership development.
