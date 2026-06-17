@@ -14,4 +14,4 @@ Settlers turns your real-world movement into a strategic territory control game.
 - [Referral System](guides/referral-system.md) — Invite friends and grow the community.
 - [Roadmap](guides/roadmap.md) — Upcoming features and future development.
 
-![Settlers logo](assets/logo.svg)
+![Settlers game map interface](assets/main-hexes.webp)
