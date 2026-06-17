@@ -2,7 +2,7 @@
 site_name = "Settlers Documentation"
 site_description = "Documentation for the Settlers geolocation strategy game."
 site_author = "Settlers Team"
-site_url = "https://docs.settlers-game.com"
+site_url = "https://docs.settlers.top"
 copyright = "Copyright &copy; 2026 Settlers"
 
 nav = [
