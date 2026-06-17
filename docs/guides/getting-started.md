@@ -1,0 +1,37 @@
+# Getting Started with SETTLERS
+
+Learn how to start playing SETTLERS and take your first steps in the game.
+
+## About the Game
+
+🌍 Settlers is a geolocation strategy game with Play & Earn elements in Telegram Mini App format, where players capture real hexes on the map, create clans and fight for territorial dominance. Based on Uber's H3 grid, where each hex is a unique piece of land that can be controlled.
+
+[:material-rocket: Open Settlers](https://t.me/settlers_hex_bot/game){ .md-button .md-button--primary }
+
+## How to Start Playing
+
+1. Click the "Open Settlers" button above
+2. Allow access to geolocation (this is necessary for the game)
+3. Find a free hex near you on the map
+4. Press the "Capture" button
+
+## Capture Mechanics
+
+- Each hex can only be captured by one player
+- You need to be physically near the hex to capture it
+- Captured hex is colored green
+- Each hex brings 1 HEX point per day when actively held
+- You cannot capture a hex if it is already owned by another member of your clan
+
+## Clan System
+
+- Join clans to control large territories
+- Clan hex (consists of ~50 regular hexes) comes under control when owning ≥75% of territory
+- Clan members get additional points for holding clan hexes :material-clock-outline: TBI
+
+## Play & Earn :material-clock-outline: TBI
+
+- Earn tokens for holding territories
+- Sell hexes after X days of ownership
+- Get bonuses for referrals and visiting partner locations
+- Participate in clan economy
