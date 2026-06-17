@@ -4,19 +4,18 @@ Settlers game development roadmap.
 
 ## Stage 1: Launch :material-rocket-launch:
 
-- Game launch and hypothesis testing.
-- Getting feedback from players.
+- Game launch and player feedback.
+- Stabilizing core gameplay.
 
-## Stage 2: Interface and Mechanics Development :material-gamepad-variant:
+## Stage 2: Interface and Mechanics :material-gamepad-variant:
 
 :material-check-circle: Current Stage
 
-- Infrastructure scaling.
 - UI improvements.
-- Maps and geolocation improvements.
-- Adding new modes and tasks.
+- Map and geolocation improvements.
+- New game modes and tasks.
 
-## Stage 3: Community Development :material-diamond:
+## Stage 3: Community :material-diamond:
 
 - Branded hexes.
 - Bonus mechanics.
@@ -25,4 +24,4 @@ Settlers game development roadmap.
 ## Stage 4: Expansion :material-map:
 
 - New social and competitive features.
-- Continued community and partnership development.
+- Continued community and partnership growth.

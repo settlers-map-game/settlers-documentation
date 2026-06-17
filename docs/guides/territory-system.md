@@ -3,27 +3,24 @@ title: Territory System
 description: Detailed explanation of Settlers territory mechanics, map layers and control rules.
 ---
 
-The game world is divided into map layers based on the H3 grid. Each layer represents a different scale of territory.
+The game world is divided into map layers of different sizes. Each layer represents a different scale of territory.
 
 ## Hex Layer
 
-- **Resolution:** H3 resolution 10.
-- **Area:** approximately 0.18 km².
-- **Basic unit for territory capture.**
+- The smallest unit on the map.
 - Each hex can be captured by a single player at a time.
+- This is the basic territory you control personally.
 
 ## Clan Territory Layer
 
-- **Resolution:** H3 resolution 8.
-- **Area:** approximately 0.74 km².
-- **Structure:** Each clan territory consists of 49 regular hexes.
-- Shows clan dominance in the area.
+- A larger area made up of many regular hexes.
+- Shows which clan dominates the area.
 
 ### Control Rules
-- A clan needs at least **36 of 49 hexes** to control a clan territory.
+- A clan controls an area when its members own most of the hexes there.
 - Control updates dynamically as players capture or lose hexes.
-- If your clan controls a territory, its members receive a reward multiplier in that area.
+- When your clan controls an area, its members earn more points there.
 
-## Competitive Areas
+## Region Competition
 
-Competitive areas are larger regions where clans fight for dominance. Control is determined by the number of hexes owned by each clan in the area.
+Larger regions are battlegrounds where clans fight for dominance. The clan with the most hexes in the region leads.

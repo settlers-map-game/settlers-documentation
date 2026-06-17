@@ -20,7 +20,7 @@ The clan invitation link also works as a referral — when joining through a cla
 - Open the link and accept the invitation.
 
 #### Direct Joining
-- Find a clan hex on the map.
+- Find a clan-controlled area on the map.
 - Press **Join** in the clan details.
 
 !!! caution "Important"
@@ -51,4 +51,4 @@ Your hexes and status after leaving:
 
 - The clan leader can edit the clan name, description, chat link, and remove members.
 - Only the leader can delete the clan.
-- Clans compete in clan leagues based on the total number of hexes controlled.
+- Clans compete in leaderboards based on the territory they control.

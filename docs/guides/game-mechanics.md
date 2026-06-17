@@ -85,4 +85,4 @@ Each hex enters a 1-hour protection period immediately after capture. During thi
 
 ## Points
 
-Hexes generate points based on their location significance. The more interesting or populated the location, the higher the reward. Points are accrued over time and added to your balance while you hold the hex.
+Hexes generate points over time while you hold them. Hexes in busier or more interesting places usually generate points faster. Points are added to your balance automatically.
